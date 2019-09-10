@@ -1,2 +1,2 @@
 # hello-world
-my first github thingy
+This is Jun, I'm learning how to use GitHub so I could code my app development bus loop app.
